@@ -1,0 +1,19 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+Pre-training/roberta
+Pre-training/ernie
+Pre-training/BERT_base
+!/data/model_my.model
+!/data/model_my.model.trainables.syn1neg.npy
+!/data/model_my.model.wv.vectors.npy
+/data/model_my.model
+/data/model_my.model.trainables.syn1neg.npy
+/data/model_my.model.wv.vectors.npy
+/实验数据.txt
+!/实验数据.txt
